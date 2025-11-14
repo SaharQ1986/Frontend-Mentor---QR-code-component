@@ -77,12 +77,12 @@ No complex media queries were needed.
 
 ## 🚀 Live Demo
 
-[[live demo link ](https://gentle-kulfi-773417.netlify.app/)]
+[[live demo link ](https://chimerical-kelpie-ad5f52.netlify.app/)]
 
 ## 🧑‍💻 Author
 
 - Frontend Mentor – [@SaharQ1986](https://www.frontendmentor.io/profile/SaharQ1986)
-- GitHub – [@SaharQ1986](https://github.com/SaharQ1986/Frontend-Mentor---Testimonials-grid-section.git)
+- GitHub – [@SaharQ1986](https://github.com/SaharQ1986/Frontend-Mentor---QR-code-component.git)
 
 ---
 
